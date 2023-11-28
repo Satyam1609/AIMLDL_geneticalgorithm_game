@@ -1,7 +1,7 @@
 <h1 align='center'> AI learns to play Ping Pong </h1>
-<p align="center">
- ![gif](https://github.com/Satyam1609/AIMLDL_geneticalgorithm_game/blob/main/demonstration.gif)
-</p>
+
+   ![gif](https://github.com/Satyam1609/AIMLDL_geneticalgorithm_game/blob/main/demonstration.gif)
+
 
 <h3 align='center'> A pingpong game played by AI using genetic algorithm</h3>
     
